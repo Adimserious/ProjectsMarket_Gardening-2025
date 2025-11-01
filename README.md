@@ -15,6 +15,21 @@ My individual contribution centers on **branding, product design, and cultural d
 
 ---
 
+---
+
+### 🌍 Praxisbezug / Connection to Practice  
+
+🇩🇪  
+Meine praktische Erfahrung mit **AfroGspot** – einer afrozentrischen Lebensmittel- und Lifestyle-Marke in Deutschland – dient als Inspiration und Fallbeispiel für dieses Projekt.  
+Über die Marke untersuche ich, wie kulturelle Vielfalt, Authentizität und Nachhaltigkeit durch Markenaufbau und Produktgestaltung im Gartenbau kommuniziert werden können.  
+
+🇬🇧  
+My practical experience with **AfroGspot** – an Afro-centric food and lifestyle brand in Germany – serves as inspiration and a case study for this project.  
+Through this brand, I explore how cultural diversity, authenticity, and sustainability can be communicated through branding and product design in horticulture.  
+
+🔗 **AfroGspot on GitHub:** [github.com/Adimserious/AfroGspot](https://github.com/Adimserious/AfroGspot)
+
+
 ## 🤝 Gruppenarbeit / Group Context  
 Dieses Projekt ist Teil der **Gruppe 3 – Market Gardening (1)**.  
 Während die Gruppe gemeinsam die Ausstellung plant, entwickle ich Inhalte zu Marketing, Gestaltung und Kommunikation, um die Marktseite von Market Gardening sichtbar zu machen.  
