@@ -15,7 +15,6 @@ My individual contribution centers on **branding, product design, and cultural d
 
 ---
 
----
 
 ### 🌍 Praxisbezug / Connection to Practice  
 
@@ -29,6 +28,7 @@ Through this brand, I explore how cultural diversity, authenticity, and sustaina
 
 🔗 **AfroGspot on GitHub:** [github.com/Adimserious/AfroGspot](https://github.com/Adimserious/AfroGspot)
 
+---
 
 ## 🤝 Gruppenarbeit / Group Context  
 Dieses Projekt ist Teil der **Gruppe 3 – Market Gardening (1)**.  
