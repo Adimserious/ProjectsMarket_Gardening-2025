@@ -64,6 +64,10 @@ Analyzing and developing branding strategies that communicate trust, authenticit
 - Visual authenticity (design, colors, materials) strengthens customer engagement.  
 - Cultural diversity can bridge sustainability and social inclusion.  
 
+**Nächste Schritte:**  
+- Entwicklung von **Branding-Elementen** für die Ausstellung (Posterkonzepte, Logo, Slogans).  
+- Vorbereitung von **Gestaltungs- und Kommunikationsmaterialien** für die Abschlusspräsentation (Januar 2026).  
+
 **Next Steps:**  
 - Develop branding elements for the exhibition (poster concepts, logo, slogans).  
 - Prepare design and communication materials for final presentation (January 2026).  
@@ -73,9 +77,6 @@ Analyzing and developing branding strategies that communicate trust, authenticit
 ## 🌍 Optional Slide – Praxisbezug / Connection to Practice  
 
 ### 🇩🇪 AfroGspot – Praxisbeispiel für Branding und kulturelle Authentizität  
-GitHub: [github.com/Adimserious/AfroGspot](https://github.com/Adimserious/AfroGspot)  
-
-### 🇬🇧 AfroGspot – Practical Example of Branding and Cultural Authenticity  
 GitHub: [github.com/Adimserious/AfroGspot](https://github.com/Adimserious/AfroGspot)  
 
 ---
