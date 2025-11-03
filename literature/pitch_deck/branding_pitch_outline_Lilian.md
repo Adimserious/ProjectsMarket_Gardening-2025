@@ -80,13 +80,12 @@ GitHub: [github.com/Adimserious/AfroGspot](https://github.com/Adimserious/AfroGs
 
 ---
 
-## ✅ Hinweise zur Präsentation / Presentation Notes  
-- Dauer: ca. 3–5 Minuten  
-- Fokussieren auf **Ziele**, **Methoden**, **erste Ergebnisse**  
-- Visuelle Unterstützung durch 3–4 Slides (PowerPoint oder Canva)  
-- AfroGspot-Beispiel als starker visueller Abschluss  
+> 📝 **Internal Note (for presenter only):**  
+> Duration: approx. 3–5 minutes  
+> Focus on: Goals, Methods, Preliminary Findings  
+> Visual support: 3–4 slides (PowerPoint / Canva)  
+> AfroGspot case as closing example  
+>  
+> 📁 File path: `/pitch_deck/branding_pitch_outline_Lilian.md`  
+> 🕓 Last updated: 3 November 2025
 
----
-
-📁 **File Path:** `/pitch_deck/branding_pitch_outline_Lilian.md`  
-🕓 **Last updated:** 3 November 2025  
