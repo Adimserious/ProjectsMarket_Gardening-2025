@@ -70,7 +70,8 @@ While the group collaboratively designs the exhibition, I develop content on mar
 ---
 
 ## 🎤 Pitch Deck / Präsentation  
-[Hier wird später die Pitch-Präsentation verlinkt.](documentation/pitch_deck_LilianAmatobi.pdf)
+📤 Eine gekürzte Version dieser Informationen wird auch in meinem Pitch-Entwurf präsentiert.
+[Zwischenpräsentation Pitch Outline](pitch_deck/branding_pitch_outline_Lilian.md).
 
 ---
 
