@@ -27,15 +27,13 @@ The design should feel **inspiring, accessible, and nature-oriented**, matching 
 
 ---
 
-##  3. Typografie / Typography
+## 3. Typografie / Typography
 
-| Element | Schriftart / Font | Größe / Size | Stil / Style | Farbe / Color |
-|----------|--------------------|---------------|----------------|----------------|
-| Titel / Title | Montserrat Bold | 44–60 pt | Großbuchstaben / Uppercase | Dunkelgrün |
-| Zwischenüberschrift / Subheading | Lato Bold | 28–36 pt | Normal | Terrakotta |
-| Fließtext / Body Text | Open Sans Regular | 22–26 pt | Blocksatz / Justified | Dunkelbraun |
-| Zitate / Quotes | Raleway Italic | 24 pt | Kursiv / Italic | Olivgrün |
-| Bildunterschriften / Captions | Lato Regular | 18 pt | Kursiv / Italic | Dunkelgrün |
+| Element          | Schriftart / Font           | Größe / Size | Stil / Style | Farbe / Color Reference |
+| ---------------- | --------------------------- | ------------- | ------------- | ----------------------- |
+| Überschriften (H1–H2) / Headings | **Montserrat**              | 20–26 pt | Bold    | `#3D4731` (Dunkelgrün / Dark Green) |
+| Fließtext / Body Text           | **Lato** / **Open Sans**    | 12–14 pt | Regular | `#4C3B1F` (Dunkelbraun / Dark Brown) |
+| Akzent / Zitate / Accent / Quotes | **Playfair Display Italic** | 12 pt    | Italic  | `#8B956A` (Olivgrün / Olive Green) |
 
 ---
 
