@@ -1,4 +1,4 @@
-# 🎨 Formatierungskonzept / Formatting Concept – Market Gardening Exhibition
+# Formatierungskonzept / Formatting Concept – Market Gardening Exhibition
 **Gruppe / Group:** Market Gardening  
 **Unterteam / Subteam:** Gestaltung / Design (Amelie · Nina · Lilian)  
 **Stand / Version:** November 2025  
@@ -14,19 +14,20 @@ The design should feel **inspiring, accessible, and nature-oriented**, matching 
 
 ---
 
-## 🎨 2. Farbkonzept / Color Palette (Palette Nr. 1)
+##  2. Farbkonzept / Color Palette (Palette Nr. 1)
 
 | Element / Element | Farbe / Color | HEX/RGB | Verwendung / Usage |
-|--------------------|----------------|----------|----------------------|
-| Hintergrund hell / Light Background | Beige | `#F5EFE6` | Hauptflächen, Posterhintergrund / Main poster background |
-| Hauptfarbe Text / Main Text Color | Dunkelgrün / Dark Green | `#3B5F3B` | Fließtext, Überschriften / Body text & titles |
-| Akzentfarbe / Accent Color | Terrakotta / Terracotta | `#C78A5B` | Linien, Icons, wichtige Wörter / Lines, icons, key words |
-| Sekundärfarbe / Secondary Color | Olivgrün / Olive Green | `#A5B68D` | Tabellen, Kästen / Boxes & tables |
-| Neutralfarbe / Neutral Color | Dunkelbraun / Dark Brown | `#5A4A42` | Zitate, Randnotizen / Quotes & side notes |
+|--------------------|---------------|----------|----------------------|
+| Hintergrund hell / Light Background | Beige | `#E9DDC8` | Hauptflächen, Posterhintergrund / Main poster background |
+| Hauptfarbe Text / Main Text Color | Dunkelgrün / Dark Green | `#3D4731` | Fließtext, Überschriften / Body text & titles |
+| Akzentfarbe / Accent Color | Sandbeige / Sand Beige | `#D1B78E` | Linien, Icons, wichtige Wörter / Lines, icons, key words |
+| Sekundärfarbe / Secondary Color | Olivgrün / Olive Green | `#8B956A` | Tabellen, Kästen / Boxes & tables |
+| Neutralfarbe / Neutral Color | Dunkelbraun / Dark Brown | `#4C3B1F` | Zitate, Randnotizen / Quotes & side notes |
+
 
 ---
 
-## ✍️ 3. Typografie / Typography
+##  3. Typografie / Typography
 
 | Element | Schriftart / Font | Größe / Size | Stil / Style | Farbe / Color |
 |----------|--------------------|---------------|----------------|----------------|
@@ -38,7 +39,7 @@ The design should feel **inspiring, accessible, and nature-oriented**, matching 
 
 ---
 
-## 🧩 4. Layoutregeln / Layout Rules
+##  4. Layoutregeln / Layout Rules
 **DE:**  
 - Blocksatz für Text, zentriert für Titel  
 - Einheitliche Ränder (2 cm)  
@@ -55,7 +56,7 @@ The design should feel **inspiring, accessible, and nature-oriented**, matching 
 
 ---
 
-## 📋 5. Textstile / Text Styles
+##  5. Textstile / Text Styles
 
 | Texttyp / Type | Beispiel / Example | Regel / Rule |
 |-----------------|---------------------|---------------|
@@ -67,5 +68,5 @@ The design should feel **inspiring, accessible, and nature-oriented**, matching 
 
 ---
 
-## 🖼️ 6. Muster-Infotafel / Example Information Board
+##  6. Muster-Infotafel / Example Information Board
 
