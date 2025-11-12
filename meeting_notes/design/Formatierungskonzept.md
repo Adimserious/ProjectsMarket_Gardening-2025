@@ -1,64 +1,71 @@
-# 🎨 Formatierungskonzept – Market Gardening Ausstellung
-**Gruppe:** Market Gardening  
-**Unterteam:** Gestaltung (Amelie · Nina · Lilian)  
-**Stand:** November 2025  
+# 🎨 Formatierungskonzept / Formatting Concept – Market Gardening Exhibition
+**Gruppe / Group:** Market Gardening  
+**Unterteam / Subteam:** Gestaltung / Design (Amelie · Nina · Lilian)  
+**Stand / Version:** November 2025  
 
 ---
 
-## 🪴 1. Ziel des Formatierungskonzepts
-Ein einheitliches, klares und natürliches Erscheinungsbild für alle Infotafeln, Poster, Beschriftungen und Präsentationen schaffen.  
-Das Design soll **inspirierend, verständlich und naturverbunden** wirken – passend zur Farbpalette und Atmosphäre der Ausstellung.
+## 🪴 1. Ziel / Objective
+**DE:** Ein einheitliches, klares und natürliches Erscheinungsbild für alle Infotafeln, Poster, Beschriftungen und Präsentationen schaffen.  
+Das Design soll **inspirierend, verständlich und naturverbunden** wirken – passend zur Farbpalette und Atmosphäre der Ausstellung.  
+
+**EN:** To create a consistent, clear, and natural visual style for all information boards, posters, labels, and presentations.  
+The design should feel **inspiring, accessible, and nature-oriented**, matching the exhibition’s color palette and atmosphere.
 
 ---
 
-## 🎨 2. Farbkonzept (Palette Nr. 1)
-| Element | Farbe | HEX/RGB | Verwendung |
-|----------|--------|----------|-------------|
-| **Hintergrund hell** | Beige | `#F5EFE6` | Hauptflächen, Posterhintergrund |
-| **Hauptfarbe Text** | Dunkelgrün | `#3B5F3B` | Lauftext, Überschriften |
-| **Akzentfarbe** | Terrakotta | `#C78A5B` | Linien, Icons, wichtige Wörter |
-| **Sekundärfarbe** | Olivgrün | `#A5B68D` | Tabellen, Kästen |
-| **Neutralfarbe** | Dunkelbraun | `#5A4A42` | Zitate, Randnotizen |
+## 🎨 2. Farbkonzept / Color Palette (Palette Nr. 1)
+
+| Element / Element | Farbe / Color | HEX/RGB | Verwendung / Usage |
+|--------------------|----------------|----------|----------------------|
+| Hintergrund hell / Light Background | Beige | `#F5EFE6` | Hauptflächen, Posterhintergrund / Main poster background |
+| Hauptfarbe Text / Main Text Color | Dunkelgrün / Dark Green | `#3B5F3B` | Fließtext, Überschriften / Body text & titles |
+| Akzentfarbe / Accent Color | Terrakotta / Terracotta | `#C78A5B` | Linien, Icons, wichtige Wörter / Lines, icons, key words |
+| Sekundärfarbe / Secondary Color | Olivgrün / Olive Green | `#A5B68D` | Tabellen, Kästen / Boxes & tables |
+| Neutralfarbe / Neutral Color | Dunkelbraun / Dark Brown | `#5A4A42` | Zitate, Randnotizen / Quotes & side notes |
 
 ---
 
-## ✍️ 3. Typografie
-| Element | Schriftart | Größe | Stil | Farbe |
-|----------|-------------|--------|------|-------|
-| **Titel / Hauptüberschrift** | Montserrat Bold | 44–60 pt | Großbuchstaben | Dunkelgrün |
-| **Zwischenüberschrift** | Lato Bold | 28–36 pt | Normal | Terrakotta |
-| **Fließtext** | Open Sans Regular | 22–26 pt | Blocksatz | Dunkelbraun |
-| **Zitate / Definitionen** | Raleway Italic | 24 pt | Kursiv | Olivgrün |
-| **Bildunterschriften** | Lato Regular | 18 pt | Kursiv | Dunkelgrün |
+## ✍️ 3. Typografie / Typography
+
+| Element | Schriftart / Font | Größe / Size | Stil / Style | Farbe / Color |
+|----------|--------------------|---------------|----------------|----------------|
+| Titel / Title | Montserrat Bold | 44–60 pt | Großbuchstaben / Uppercase | Dunkelgrün |
+| Zwischenüberschrift / Subheading | Lato Bold | 28–36 pt | Normal | Terrakotta |
+| Fließtext / Body Text | Open Sans Regular | 22–26 pt | Blocksatz / Justified | Dunkelbraun |
+| Zitate / Quotes | Raleway Italic | 24 pt | Kursiv / Italic | Olivgrün |
+| Bildunterschriften / Captions | Lato Regular | 18 pt | Kursiv / Italic | Dunkelgrün |
 
 ---
 
-## 🧩 4. Layoutregeln
-- **Ausrichtung:** Blocksatz für Fließtext, zentriert für Titel  
-- **Ränder:** mind. 2 cm an allen Seiten  
-- **Abstände:**  
-  - Überschrift → Text: 1 cm  
-  - Zwischen Textblöcken: 0,5 cm  
-- **Bildelemente:**  
-  - Bilder mit abgerundeten Ecken  
-  - Einheitliche Schatten oder Rahmen (Terrakotta, 2 pt)  
-- **Icons / Symbole:**  
-  - Nur natürliche Piktogramme (Pflanze, Hand, Sonne, Wasser)  
-- **Logo / QR-Code:**  
-  - Unten rechts, max. 5 × 5 cm  
-  - QR-Code auf weißem Hintergrund  
+## 🧩 4. Layoutregeln / Layout Rules
+**DE:**  
+- Blocksatz für Text, zentriert für Titel  
+- Einheitliche Ränder (2 cm)  
+- Gleichmäßige Abstände zwischen Textblöcken (0,5–1 cm)  
+- Bilder mit abgerundeten Ecken und feinem Rahmen (Terrakotta, 2 pt)  
+- QR-Code unten rechts auf weißem Hintergrund  
+
+**EN:**  
+- Justified text, centered titles  
+- Margins: 2 cm all around  
+- Consistent spacing between text blocks (0.5–1 cm)  
+- Rounded image corners, subtle terracotta frame (2 pt)  
+- QR code at bottom right on white background  
 
 ---
 
-## 📋 5. Formatierungshinweise (Textstile)
-| Texttyp | Beispiel | Regel |
-|----------|-----------|-------|
-| **Definitionen** | *Market Gardening ist eine Form …* | Kursiv + grüne Linie links |
-| **Fachbegriffe / Fremdwörter** | *Maraîchage*, *Biointensiv* | Kursiv |
-| **Wichtige Begriffe** | Nachhaltigkeit, Regionalität | Fett |
-| **Zitate / Quellenangaben** | (Fortier 2025) | Kleinere Schrift, Olivgrün |
-| **Abschnittstitel** | *Anbaumethoden / Methods of Cultivation* | Zweisprachig, fett, Überschrift 2 |
+## 📋 5. Textstile / Text Styles
+
+| Texttyp / Type | Beispiel / Example | Regel / Rule |
+|-----------------|---------------------|---------------|
+| Definitionen / Definitions | *Market Gardening ist eine Form …* | Kursiv + grüne Linie links / Italic + green line on left |
+| Fachbegriffe / Key Terms | *Maraîchage, Biointensiv* | Kursiv / Italic |
+| Wichtige Begriffe / Emphasis | Nachhaltigkeit, Regionalität | Fett / Bold |
+| Zitate / Sources | (Fortier 2025) | Kleine Schrift, Olivgrün / Small font, olive green |
+| Abschnittstitel / Section Titles | *Anbaumethoden / Methods of Cultivation* | Zweisprachig, fett / Bilingual, bold |
 
 ---
 
-## 🖼️ 6. Muster-Infotafel (Beispielaufbau)
+## 🖼️ 6. Muster-Infotafel / Example Information Board
+
