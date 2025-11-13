@@ -14,7 +14,7 @@ The design should feel **inspiring, accessible, and nature-oriented**, matching 
 
 ---
 
-##  2. Farbkonzept / Color Palette (Palette Nr. 1)
+##  2. Farbkonzept / Color Palette (Palette Nr. 1)Die gliechen Farben, die wir von Nina haben.
 
 | Element / Element | Farbe / Color | HEX/RGB | Verwendung / Usage |
 |--------------------|---------------|----------|----------------------|
@@ -37,7 +37,7 @@ The design should feel **inspiring, accessible, and nature-oriented**, matching 
 
 ---
 
-##  4. Layoutregeln / Layout Rules
+##  4. Layout-vorschläge / Layout suggestion
 **DE:**  
 - Blocksatz für Text, zentriert für Titel  
 - Einheitliche Ränder (2 cm)  
@@ -56,7 +56,7 @@ The design should feel **inspiring, accessible, and nature-oriented**, matching 
 
 ##  5. Textstile / Text Styles
 
-| Texttyp / Type | Beispiel / Example | Regel / Rule |
+| Texttyp / Type | Beispiel / Example | Vorschläge / suggestions |
 |-----------------|---------------------|---------------|
 | Definitionen / Definitions | *Market Gardening ist eine Form …* | Kursiv + grüne Linie links / Italic + green line on left |
 | Fachbegriffe / Key Terms | *Maraîchage, Biointensiv* | Kursiv / Italic |
