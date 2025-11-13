@@ -64,7 +64,5 @@ The design should feel **inspiring, accessible, and nature-oriented**, matching 
 | Zitate / Sources | (Fortier 2025) | Kleine Schrift, Olivgrün / Small font, olive green |
 | Abschnittstitel / Section Titles | *Anbaumethoden / Methods of Cultivation* | Zweisprachig, fett / Bilingual, bold |
 
----
 
-##  6. Muster-Infotafel / Example Information Board
 
