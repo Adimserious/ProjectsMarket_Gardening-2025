@@ -5,7 +5,7 @@
 
 ---
 
-## 🪴 1. Ziel / Objective
+## 1. Ziel / Objective
 **DE:** Ein einheitliches, klares und natürliches Erscheinungsbild für alle Infotafeln, Poster, Beschriftungen und Präsentationen schaffen.  
 Das Design soll **inspirierend, verständlich und naturverbunden** wirken – passend zur Farbpalette und Atmosphäre der Ausstellung.  
 
