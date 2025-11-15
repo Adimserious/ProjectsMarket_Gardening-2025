@@ -1,5 +1,10 @@
 # Vergleich der Finanzierungsformen / Comparison of Financing Types  
-*(Based only on the book “Agrarmanagement”, 2nd edition)*
+*(Based only on the book Reiner Doluschitz
+ ClemensMorath
+ Jens Pape “Agrarmanagement”, 2nd edition)*
+ **Citation (APA):**  
+Doluschitz, R., Morath, C., & Pape, J. (2011). *Agrarmanagement: Unternehmensführung in Landwirtschaft und Agribusiness* (2nd ed.). UTB / Ulmer. https://doi.org/10.36198/9783838535876
+
 
 | Finanzierungsform (DE) | Financing Type (EN)        | Beschreibung (DE)                                                                 | Description (EN)                                                                 | Vorteile (DE)                                                         | Advantages (EN)                                                        | Nachteile (DE)                                                           | Disadvantages (EN)                                                        | Book Reference (EN)                                                |
 |------------------------|----------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------|
@@ -25,15 +30,15 @@ To be 100% transparent:
 Found in the financial fundamentals section:
 
 “Eigenkapital dient zur Finanzierung langfristiger Unternehmensziele…
-Fremdkapital wird zur Finanzierung von Investitionen eingesetzt…”
-
+Fremdkapital wird zur Finanzierung von Investitionen eingesetzt…” Chapter 4.4.4, pp. 220–221
+und Chapter 4.3, pp. 217–219
 
 
 ✔ Leasing / Mietkauf
 
 Found in the machinery economics section:
 
-“Leasing berücksichtigt die wirtschaftliche Nutzungsdauer von Maschinen…”
+“Leasing berücksichtigt die wirtschaftliche Nutzungsdauer von Maschinen…” Chapter 4.2.3, pp. 213–216
 
 
 
@@ -41,7 +46,7 @@ Found in the machinery economics section:
 
 Found in management & cooperation section:
 
-“Kooperative Strukturen können Ressourcen effizient bündeln…”
+“Kooperative Strukturen können Ressourcen effizient bündeln…” Chapter 1.2 (Cooperation), pp. 108–110; 154 
 
 
 
@@ -49,7 +54,7 @@ Found in management & cooperation section:
 
 Found in institutional and policy section:
 
-“Öffentliche Gelder unterstützen Investitions- und Entwicklungsprozesse…”
+“Öffentliche Gelder unterstützen Investitions- und Entwicklungsprozesse…” Chapter 4.4.4, pp. 220–221
 
 
 
@@ -57,5 +62,5 @@ Found in institutional and policy section:
 
 Found in business management chapter discussing capital structures:
 
-“Beteiligungsformen erweitern den Finanzierungsspielraum eines Unternehmens…”
+“Beteiligungsformen erweitern den Finanzierungsspielraum eines Unternehmens…” Chapter 4.3, pp. 217–218
 
