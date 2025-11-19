@@ -1,3 +1,17 @@
+### Financing Options for Market Gardening (Based on fi-compass Germany Report)
+
+| Loan Type (EN/DE) | Purpose | Relevant for Market Gardening | Page |
+|-------------------|---------|-------------------------------|------|
+| Short-term credit lines / Kurzfristige Kreditlinien | Seasonal operations | Seeds, compost, early expenses | p. 28 |
+| Overdraft credit / Überziehungskredit | Cash flow flexibility | Covers gaps before first harvest | p. 28 |
+| Medium-term loans / Mittelfristige Darlehen | 1–5 year investments | Irrigation, equipment | p. 27–29 |
+| Long-term investment loans / Langfristige Investitionsdarlehen | Big investments (5+ years) | Tunnels, greenhouses, buildings | p. 27–28 |
+| Working-capital loans / Betriebsmittelkredite | Operating expenses | Labour, compost, marketing | p. 28 |
+| Investment financing / Investitionsfinanzierung | Durable assets | Tools, greenhouses, machinery | p. 27 |
+
+--
+
+
 # Vergleich der Finanzierungsformen / Comparison of Financing Types  
 *(Based only on the book Reiner Doluschitz
  ClemensMorath
