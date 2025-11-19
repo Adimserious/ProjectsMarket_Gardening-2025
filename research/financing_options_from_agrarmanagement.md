@@ -1,3 +1,192 @@
+Finanzierungsmöglichkeiten für Market Gardening in Deutschland
+Eine positive, lösungsorientierte Übersicht basierend auf dem fi-compass Bericht (2020)
+
+Market Gardening bietet große Chancen: kleine Fläche, großer Ertrag, geringe Startkosten und ein persönlicher, direkter Weg in die Landwirtschaft.
+Damit der Einstieg gelingt, stehen in Deutschland zahlreiche Finanzierungswege und Unterstützungsangebote zur Verfügung.
+
+1. Hohe Bewilligungsquote für landwirtschaftliche Kredite
+
+Laut fi-compass beträgt die Genehmigungsrate für:
+
+Langfristige Investitionskredite: 91 %
+
+Kreditlinien (Kontokorrent): 95 %
+
+➡️ Wer einen gut vorbereiteten Antrag hat, erhält fast immer Unterstützung.
+
+2. Die wichtigsten Finanzierungsoptionen (fi-compass Loan Types)
+✔ Kurzfristige Kreditlinien / Short-term credit lines (p. 28)
+
+Ideal für saisonale Betriebskosten wie Saatgut, Kompost oder Bewässerung.
+
+✔ Überziehungsrahmen / Overdraft credit (p. 28)
+
+Hilft bei kurzfristigen Liquiditätsengpässen, bevor die ersten Erträge kommen.
+
+✔ Mittelfristige Kredite (1–5 Jahre) / Medium-term loans (p. 27–29)
+
+Geeignet für Ausrüstung, Bewässerung, Kühlung oder Packstationen.
+
+✔ Langfristige Investitionskredite (> 5 Jahre) / Long-term investment loans (p. 27)
+
+Perfekt für Gewächshäuser, Tunnels, Lager, Infrastruktur.
+
+✔ Betriebsmittelkredite / Working-capital loans (p. 28)
+
+Zur Deckung laufender Kosten wie Arbeitskräfte, Energie, Verpackung.
+
+3. Kleine Betriebe sind willkommen
+
+Der Bericht zeigt, dass kleine Betriebe (< 20 ha) bei guter Vorbereitung gleichberechtigt Zugang zu Finanzierungen haben.
+
+Und Market Gardening erfordert:
+
+Wenig Fläche
+
+Wenig Startkapital
+
+Hohe Direktvermarktung
+
+Kurze Wachstumszyklen
+
+Schnellen Cashflow
+
+➡️ Das macht den Einstieg besonders leicht.
+
+4. Viele Unterstützungswege erleichtern den Einstieg
+
+Deutschland bietet zahlreiche Förder- und Beratungsstrukturen, u.a.:
+
+Rentenbank (zinsgünstige Agrarkredite)
+
+Regionale Banken (Sparkasse, VR-Bank)
+
+EU-Förderprogramme
+
+Landwirtschaftsamt (Beratung + Anträge)
+
+Existenzgründungsberatung
+
+Gemeinschaftsfinanzierung (z. B. SoLaWi, Crowdfunding)
+
+➡️ Niemand muss allein starten.
+
+5. Große Stärke des Market Gardening: Geringe Einstiegskosten
+
+Im Vergleich zu klassischen Landwirtschaftsbetrieben (Hunderttausende Euro Investitionsbedarf) kommt Market Gardening oft mit:
+
+5.000–20.000 € Startkapital
+
+Tools statt Traktor
+
+Kleinen Tunneln statt großen Gebäuden
+
+Direktvermarktung statt Großhandel
+
+➡️ Finanzielle Barrieren sind deutlich geringer.
+➡️ Ein Nebenerwerb ist problemlos möglich.
+
+6. Fazit (DE)
+
+Market Gardening ist ein idealer Einstieg in die Landwirtschaft:
+überschaubare Kosten, hohe Unterstützung, flexible Kreditstrukturen und exzellente Bewilligungsquoten.
+
+Mit guter Vorbereitung und einem klaren Konzept stehen alle Wege offen.
+
+🇬🇧 Financing Market Gardening in Germany
+A positive, solution-oriented summary based on the fi-compass report (2020)
+
+Market Gardening offers an accessible pathway into agriculture: small area, big harvest, low start-up costs, and direct community impact.
+
+Here are the financing options that make starting easy and achievable.
+
+1. Very high loan approval rates
+
+fi-compass shows:
+
+Long-term loans: 91% approval
+
+Credit lines/overdrafts: 95% approval
+
+➡️ A well-prepared application is almost always successful.
+
+2. Financing instruments available (from fi-compass)
+✔ Short-term credit lines (p. 28)
+
+For seasonal costs: seeds, compost, irrigation.
+
+✔ Overdraft credit (p. 28)
+
+For temporary gaps before harvest income.
+
+✔ Medium-term loans (1–5 years) (p. 27–29)
+
+Ideal for tools, irrigation, cooling, equipment.
+
+✔ Long-term investment loans (> 5 years) (p. 27)
+
+Perfect for tunnels, greenhouses, storage, infrastructure.
+
+✔ Working-capital loans (p. 28)
+
+For ongoing costs: labour, utilities, marketing.
+
+3. Small farms are fully supported
+
+The report confirms small farms can access credit successfully —
+and Market Gardening requires:
+
+Small land area
+
+Low investment
+
+Direct sales
+
+Fast turnover
+
+➡️ This makes financing easier, not harder.
+
+4. Many support structures help beginners
+
+Including:
+
+Rentenbank low-interest loans
+
+Local banks
+
+EU support schemes
+
+Agricultural offices
+
+Start-up advisory services
+
+Community-funded models (CSA, crowdfunding)
+
+➡️ Nobody has to start alone.
+
+5. Major advantage: low start-up cost
+
+Market Gardening needs only:
+
+€5,000–€20,000 initial investment
+
+Hand tools instead of tractors
+
+Small tunnels instead of huge buildings
+
+Direct sales instead of wholesale
+
+➡️ Financial barriers are low.
+➡️ Part-time (side-business) entry is easy.
+
+6. Conclusion (EN)
+
+Market Gardening is one of the most accessible agricultural models in Germany:
+low cost, strong support systems, flexible financing options, and excellent approval rates.
+
+With a clear plan, you can get started confidently and sustainably.
+
+
 fi-compass, 2020. Financial needs in the agriculture and agri-food sectors in Germany. Study report, 80 pages.
 https://www.fi-compass.eu/sites/default/files/publications/financial_needs_agriculture_agrifood_sectors_Germany.pdf?utm_
 
