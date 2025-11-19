@@ -1,3 +1,6 @@
+fi-compass, 2020. Financial needs in the agriculture and agri-food sectors in Germany. Study report, 80 pages.
+https://www.fi-compass.eu/sites/default/files/publications/financial_needs_agriculture_agrifood_sectors_Germany.pdf?utm_
+
 ### Financing Options for Market Gardening (Based on fi-compass Germany Report)
 
 | Loan Type (EN/DE) | Purpose | Relevant for Market Gardening | Page |
